@@ -6,7 +6,7 @@ To find the Longest and Second longest Compound Word from the given input .txt f
 . Input_02.txt
 # Output
 
-#Approach
+# Approach
 Strings are stored in a unique tree known as the Trie data structure. A node can have a maximum number of children equal to the size of the alphabet. Trie offers O(k)-time search, insert, and delete operations, where k is the key/word length. It is clear that this is quicker than BST and hashing. and Prefix search may be done effectively.
 
 First we will read the input file then construct the Trie with all the strings present in the input file. For constructing the Trie insert() function is called which is present in the Trie class. 
