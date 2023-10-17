@@ -8,11 +8,11 @@ To find the Longest and Second longest Compound Word from the given input .txt f
 ```
 Longest Compound Word: ratcatdogcat
 Second Longest Compound Word: catsdogcats
-Time taken to process the file: 2 milliseconds
+Time taken to process the file: 0 milliseconds
 
 Longest Compound Word: ethylenediaminetetraacetates
 Second Longest Compound Word: electroencephalographically
-Time taken to process the file: 1513 milliseconds
+Time taken to process the file: 1352 milliseconds
 ```
 
 # Approach
